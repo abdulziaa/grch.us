@@ -2,4 +2,4 @@ https://www.grch.us website source code.
 
 created using plasmic.
 
-new vamp or whateva.
+new revamp or whateva.
